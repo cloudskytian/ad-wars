@@ -17,7 +17,7 @@
 
 
 #### 目录
-- [八戒助手](01-ba-jie-assistant)
+- [八戒助手](01-八戒助手)
 - [八戒坐标](02-ba-jie-coordinate)
 - [八戒FAQ](03-ba-jie-faq)
 - [悬浮窗](08-ba-jie-floating-windows)
