@@ -14,6 +14,7 @@
 > 借助无障碍服务，跳过启动页广告
 2. 八戒任务
 > 多个页面的点击组合成八戒任务
+
 <img src="https://raw.githubusercontent.com/wiki/jdlingyu/ad-wars/images/bajie.png" width="250">
 
 ### 悟空
@@ -21,11 +22,12 @@
 > 基于 Xposed，跳过启动页的广告
 2. Url 拦截
 > 基于 Xposed，拦截广告 Url
-<img src="https://raw.githubusercontent.com/wiki/jdlingyu/ad-wars/images/wukong.png" width="250">
 3. 广告文件替换
 > 通过用同名的空文件夹替换广告，达到去除广告
 4. Hosts 管理
 > 通过替换 hosts，应用无法下载广告
+
+<img src="https://raw.githubusercontent.com/wiki/jdlingyu/ad-wars/images/wukong.png" width="250">
 
 ### 社区
 > 基于社区，大家交流和共享解码
