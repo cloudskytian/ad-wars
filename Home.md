@@ -17,6 +17,7 @@
 
 
 #### 目录
+- [悟空净化](https://github.com/jdlingyu/ad-wars/wiki/00-悟空净化)
 - [八戒助手](https://github.com/jdlingyu/ad-wars/wiki/01-八戒助手)
 - [八戒坐标](https://github.com/jdlingyu/ad-wars/wiki/02-八戒坐标)
 - [八戒FAQ](https://github.com/jdlingyu/ad-wars/wiki/03-八戒FAQ)
