@@ -1,13 +1,10 @@
 # 使用帮助
 
-#### 大圣净化 [酷安下载](https://www.coolapk.com/apk/269910)
+#### 大圣净化 [下载](https://estar.lanzouo.com/s/DaMagisk)
 > 一款全方位去除应用广告的应用。
 
-#### 八戒助手 [酷安下载(免费)](http://www.coolapk.com/apk/263622)
-> 借助无障碍服务，通过文字/ViewId/屏幕坐标来模拟点击，可以用来跳过启动页广告。
-
-#### 一指禅 [酷安下载(免费)](https://www.coolapk.com/apk/267029)
-> 智能跳过启动页广告。
+#### 一指禅 [下载](https://estar.lanzouo.com/s/OneMagisk)
+> 基于辅助服务智能跳过启动页广告。
 
 #### 目录
 - [悟空净化](https://github.com/jdlingyu/ad-wars/wiki/00-悟空净化)
