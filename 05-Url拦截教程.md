@@ -10,9 +10,9 @@ hosts和dns拦截，是拦截整个域名，url 可以针对 url 的关键字拦
 #### Hosts，url拦截 规则制作
 这两个方式的规则制作，就必须用到第三方的抓包软件了，这里向大家推荐一个在国内应用市场挺热门的APP（Packet Capture 无ROOT抓包）。抓包软件使用就不赘述了。
 这里以“江苏移动营业厅”这个APP为例：
-<img src="https://raw.githubusercontent.com/wiki/jdlingyu/ad-wars/images/url_capture.jpg" width="250">
+<img src="https://raw.githubusercontent.com/wiki/cloudskytian/ad-wars/images/url_capture.jpg" width="250">
 
-<img src="https://raw.githubusercontent.com/wiki/jdlingyu/ad-wars/images/url_capture_app.jpg" width="250">
+<img src="https://raw.githubusercontent.com/wiki/cloudskytian/ad-wars/images/url_capture_app.jpg" width="250">
 
 通过上图，就会知道，假如用hosts方式填wap.js.10086.cn到域名拦截的话，那么营业厅也就会没网了。
 1. 抓到的目标页，分析地址，填到Url关键字里面，保存规则。
